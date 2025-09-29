@@ -17,7 +17,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "ƨσʋяcɛ", url=f"https://te.legra.ph/file/ec19cf227791a167abedc.jpg"
+                        "🍁sᴏᴜʀᴄᴇ🍁", url=f"https://te.legra.ph/file/ec19cf227791a167abedc.jpg"
                     )
                 ]
             ]
@@ -34,7 +34,7 @@ async def clones(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "ƨσʋяcɛ", url=f"https://te.legra.ph/file/ec19cf227791a167abedc.jpg"
+                        "🍁sᴏᴜʀᴄᴇ🍁", url=f"https://te.legra.ph/file/ec19cf227791a167abedc.jpg"
                     )
                 ]
             ]
