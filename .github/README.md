@@ -9,7 +9,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/ARYANSONIOP2/SamiraMusicBot/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/ARYANSONIOP2/SamiraMusicBot/blob/main/sample.env)
 ---
 
 ### 🔧 Quick Setup
