@@ -11,13 +11,13 @@ from BrandrdXMusic.utils.database import add_served_chat, get_assistant
 @app.on_message(filters.command("repo"))
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"",
+        photo=f"https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
         caption=f"""🍁𝗣𝗘𝗛𝗟𝗘 𝗝𝗔𝗞𝗘 𝗦𝗔𝗠𝗜𝗥𝗔 𝗞𝗢 𝗗𝗜𝗗𝗜 𝗕𝗢𝗟🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "ƨσʋяcɛ", url=f""
+                        "ƨσʋяcɛ", url=f"https://te.legra.ph/file/ec19cf227791a167abedc.jpg"
                     )
                 ]
             ]
@@ -28,13 +28,13 @@ async def help(client: Client, message: Message):
 @app.on_message(filters.command("clone"))
 async def clones(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"",
+        photo=f"https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
         caption=f"""**🙂You Are Not Sudo User So You Are Not Allowed To Clone Me.**\n**😌Click Given Below Button And Host Manually Otherwise Contact Owner Or Sudo Users For Clone.**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "ƨσʋяcɛ", url=f""
+                        "ƨσʋяcɛ", url=f"https://te.legra.ph/file/ec19cf227791a167abedc.jpg"
                     )
                 ]
             ]
