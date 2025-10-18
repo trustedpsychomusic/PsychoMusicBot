@@ -31,7 +31,7 @@ LOG = int(getenv("LOG", True))
 
 API_URL = getenv("API_URL", 'https://api.thequickearn.xyz')
 VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
-API_KEY = getenv("API_KEY", 'xbit_QM278D6B3HSLG3ZI7ARJTN')
+API_KEY = getenv("API_KEY", 'NxGBNexGenBots08335a')
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
